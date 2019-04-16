@@ -3,3 +3,4 @@ Git is free software distributed under GPL
 
 # Dobby is free one
 test stash
+test merge from master
