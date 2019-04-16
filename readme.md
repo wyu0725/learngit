@@ -5,3 +5,4 @@ Git is free software distributed under GPL
 test stash
 confict
 test merge from master
+ddd
